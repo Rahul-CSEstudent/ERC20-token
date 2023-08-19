@@ -15,6 +15,7 @@ To download the project, clone the repository:
 ```bash
 git clone https://github.com/your-username/erc20-token-project.git
 cd erc20-token-project
+```
 
 ### Help
 If you encounter any issues, feel free to reach out talktorahul.b@gmail.com
