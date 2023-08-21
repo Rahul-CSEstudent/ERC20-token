@@ -4,7 +4,7 @@ A Simple ERC20 Token Smart Contract
 
 ## Description
 
-This project provides a basic implementation of an ERC20 token smart contract written in Solidity. The ERC20 token standard enables the creation of fungible tokens on the Ethereum blockchain. The smart contract allows users to transfer tokens, approve other addresses to spend tokens, and transfer tokens on behalf of others.
+This project provides a basic implementation of an ERC20 token smart contract written in Solidity. The ERC20 token standard enables the creation of fungible tokens on the Ethereum blockchain. The smart contract allows users to mint tokens, burn tokens, transfer tokens, approve other addresses to spend tokens, and transfer tokens on behalf of others.
 
 ## Getting Started
 
